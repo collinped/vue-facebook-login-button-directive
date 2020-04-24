@@ -1,0 +1,25 @@
+{
+  "name": "vue-facebook-login-button-directive",
+  "version": "0.0.1",
+  "description": "A simple Vue directive to include Facebook Sign-In Button behavior in any component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinped/vue-facebook-login-button-directive.git"
+  },
+  "keywords": [
+    "vue",
+    "facebook",
+    "signin",
+    "login"
+  ],
+  "author": "Collin Pedersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/collinped/vue-facebook-login-button-directive/issues"
+  },
+  "homepage": "https://github.com/collinped/vue-facebook-login-button-directive#readme"
+}
