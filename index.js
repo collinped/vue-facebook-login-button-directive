@@ -26,7 +26,7 @@ export default Vue.directive('facebook-login-button', {
       FB.login(
         function(facebookResponse) {
           if (facebookResponse.status === 'connected') {
-            FB.api('/me?fields=name,email,picture', function(response) {
+            FB.api('/me?fields=name,email', function(response) {
               OnSuccess(facebookResponse.authResponse, response)
             })
           } else {

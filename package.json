@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/collinped/vue-facebook-login-button-directive/issues"
   },
-  "homepage": "https://github.com/collinped/vue-facebook-login-button-directive#readme"
+  "homepage": "https://github.com/collinped/vue-facebook-login-button-directive#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
