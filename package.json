@@ -16,13 +16,10 @@
     "signin",
     "login"
   ],
-  "author": "Collin Pedersen",
+  "author": "Collin Pedersen <me@collinped.com> (https://www.collinped.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/collinped/vue-facebook-login-button-directive/issues"
   },
-  "homepage": "https://github.com/collinped/vue-facebook-login-button-directive#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "homepage": "https://github.com/collinped/vue-facebook-login-button-directive#readme"
 }
